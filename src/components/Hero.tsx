@@ -19,7 +19,7 @@ export default function Hero() {
                         {hero.subtitle}
                     </p>
                     <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-                        <a className="w-full sm:w-auto bg-primary text-on-primary px-8 py-4 rounded-full font-label-md text-label-md hover:bg-primary-container transition-colors shadow-md min-h-[48px] flex items-center justify-center" href="#productos">
+                        <a className="w-full sm:w-auto bg-primary text-on-primary px-8 py-4 rounded-full font-label-md text-label-md hover:bg-primary-container transition-colors shadow-md min-h-[48px] flex items-center justify-center" href="https://sistema-de-catalogo.vercel.app/ohana" target="_blank" rel="noopener noreferrer">
                             {hero.primaryCTA}
                         </a>
                         <a className="w-full sm:w-auto bg-transparent text-primary border border-primary px-8 py-4 rounded-full font-label-md text-label-md hover:bg-primary-fixed transition-colors min-h-[48px] flex items-center justify-center" href="#contacto">
