@@ -4,7 +4,7 @@ import { landingData } from "../config/landing";
 export default function SEO() {
     const phoneObj = landingData.contactLinks?.find((l) => l.id === "phone");
     const phone = phoneObj ? phoneObj.href.replace("tel:", "") : "";
-    const ogImageFallback = "/LogoAlmacenDeco.png"; // Using new logo as fallback
+    const ogImageFallback = "/logo.png"; // Using new logo as fallback
 
     return (
         <Head>
