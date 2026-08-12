@@ -1,7 +1,7 @@
 export const landingData = {
     brand: "OHANA aromas de familia",
     location: "Concordia, Entre Ríos.", // Kept generic based on previous location or can be removed if not specified, but the template uses it. Let's just put something or empty.
-    footerText: "OHANA Aromas de Familia — Crafted with love",
+    footerText: "OHANA Aromas de Familia — Hecho con amor",
 
     social: [
         { id: "Facebook", href: "https://www.facebook.com/ohanaaromasok" },
@@ -16,7 +16,7 @@ export const landingData = {
     ],
 
     topBenefits: [
-        "Envíos a todo el país",
+        "Consultar por envío",
         "Atención personalizada",
     ],
 
@@ -49,7 +49,7 @@ export const landingData = {
             desc: "Te asesoramos para encontrar tu aroma ideal.",
         },
         {
-            title: "Envíos a todo el país",
+            title: "Consultar por envío",
             desc: "Llevamos la calidad de Ohana a cualquier rincón.",
         },
     ],

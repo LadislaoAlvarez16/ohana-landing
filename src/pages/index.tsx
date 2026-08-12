@@ -5,6 +5,7 @@ import Steps from "@/src/components/Steps";
 import CTA from "@/src/components/CTA";
 import Gallery from "@/src/components/Gallery";
 import Services from "@/src/components/Services";
+import BeforeAfter from "@/src/components/BeforeAfter";
 
 export default function Page() {
   return (
@@ -13,6 +14,7 @@ export default function Page() {
       <TopBenefits />
       <Gallery />
       <Services />
+      <BeforeAfter />
       <Steps />
       <Features />
       <CTA />
