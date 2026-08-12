@@ -69,7 +69,7 @@ export const landingData = {
     services: [
         {
             title: "Velas aromáticas",
-            desc: "Elaboradas con cera de soja natural y pabilos de algodón. Aromas intensos que perduran y transforman cualquier ambiente.",
+            desc: "Cera de soja natural con aromas intensos que perduran.",
             image: "/servicio-homespray.jpg"
         },
         {
