@@ -69,7 +69,7 @@ export const landingData = {
     services: [
         {
             title: "Velas aromáticas",
-            desc: "Cera de soja natural con aromas intensos que perduran.",
+            desc: "Velas hechas con amor y aromas que perduran.",
             image: "/servicio-homespray.jpg"
         },
         {
