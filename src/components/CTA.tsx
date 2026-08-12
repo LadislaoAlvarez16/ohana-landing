@@ -12,7 +12,7 @@ export default function CTA() {
                 <h2 className="font-headline-xl text-headline-xl md:text-4xl text-primary mb-8 leading-tight">
                     {landingData.CTA.title}
                 </h2>
-                <a className="inline-block bg-primary text-on-primary px-10 py-4 rounded-full font-label-md text-label-md hover:bg-primary-container transition-colors shadow-lg shadow-primary/20 min-h-[48px]" href="#productos">
+                <a className="inline-block bg-primary text-on-primary px-10 py-4 rounded-full font-label-md text-label-md hover:bg-primary-container transition-colors shadow-lg shadow-primary/20 min-h-[48px]" href="https://api.whatsapp.com/send/?phone=5493456256985&text=Hola!%20Quiero%20conocer%20m%C3%A1s%20sobre%20los%20productos%20y%20hacer%20un%20pedido." target="_blank" rel="noopener noreferrer">
                     {landingData.CTA.button}
                 </a>
             </div>
